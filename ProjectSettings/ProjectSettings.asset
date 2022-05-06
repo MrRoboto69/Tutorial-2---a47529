@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: MrRobotoGames
   productName: Tutorial 2 - a47529
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
